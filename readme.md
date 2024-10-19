@@ -11,7 +11,7 @@ Os parâmetros podem ser fornecidos ao executar a aplicação da seguinte forma:
 - `--concurrency`: Número de chamadas simultâneas.
 
 ## Exemplo de Uso
-- Baixa o Repositório
+- Baixar o Repositório
 
   ```bash
   git clone https://github.com/guirialli/stress_test
