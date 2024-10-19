@@ -1,0 +1,6 @@
+
+services:
+  carga-tester:
+    build: .
+    image: carga-tester
+    command: ["--url=http://google.com", "--requests=1000", "--concurrency=10"]
