@@ -14,7 +14,7 @@ Os parâmetros podem ser fornecidos ao executar a aplicação da seguinte forma:
 - Baixa o Repositório
 
   ```bash
-  git clone https://github.com/guirialli/Stress_Test
+  git clone https://github.com/guirialli/stress_test
   ```
 
 - Compile o projeto
